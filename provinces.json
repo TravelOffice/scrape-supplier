@@ -1,0 +1,466 @@
+[
+  {
+    "Index": "01",
+    "Code": "SGN",
+    "Province": "Thành phố Hồ Chí Minh",
+    "Revenue": 80.833,
+    "Hotel": 100,
+    "Restaurant": 100
+  },
+  {
+    "Index": "02",
+    "Code": "KHA",
+    "Province": "Khánh Hòa",
+    "Revenue": 12.567,
+    "Hotel": 100,
+    "Restaurant": 100
+  },
+  {
+    "Index": "03",
+    "Code": "NA",
+    "Province": "Nghệ An",
+    "Revenue": 11.491,
+    "Hotel": 100,
+    "Restaurant": 100
+  },
+  {
+    "Index": "04",
+    "Code": "BTH",
+    "Province": "Bình Thuận",
+    "Revenue": 11.348,
+    "Hotel": 100,
+    "Restaurant": 100
+  },
+  {
+    "Index": "05",
+    "Code": "LC",
+    "Province": "Lào Cai",
+    "Revenue": 10.813,
+    "Hotel": 100,
+    "Restaurant": 100
+  },
+  {
+    "Index": "06",
+    "Code": "DN",
+    "Province": "Đà Nẵng",
+    "Revenue": 9.967,
+    "Hotel": 100,
+    "Restaurant": 100
+  },
+  {
+    "Index": "07",
+    "Code": "HAN",
+    "Province": "Hà Nội",
+    "Revenue": 8.436,
+    "Hotel": 100,
+    "Restaurant": 100
+  },
+  {
+    "Index": "08",
+    "Code": "LAN",
+    "Province": "Quảng Ninh",
+    "Revenue": 7.968,
+    "Hotel": 100,
+    "Restaurant": 100
+  },
+  {
+    "Index": "09",
+    "Code": "PYE",
+    "Province": "Phú Yên",
+    "Revenue": 6.99,
+    "Hotel": 100,
+    "Restaurant": 100
+  },
+  {
+    "Index": 10,
+    "Code": "TH",
+    "Province": "Thanh Hóa",
+    "Revenue": 6.725,
+    "Hotel": 100,
+    "Restaurant": 100
+  },
+  {
+    "Index": 11,
+    "Code": "QB",
+    "Province": "Quảng Bình",
+    "Revenue": 6.565,
+    "Hotel": 100,
+    "Restaurant": 100
+  },
+  {
+    "Index": 12,
+    "Code": "NT",
+    "Province": "Ninh Thuận",
+    "Revenue": 5.773,
+    "Hotel": 100,
+    "Restaurant": 100
+  },
+  {
+    "Index": 13,
+    "Code": "TTH",
+    "Province": "Thừa Thiên Huế",
+    "Revenue": 5.689,
+    "Hotel": 100,
+    "Restaurant": 100
+  },
+  {
+    "Index": 14,
+    "Code": "KG",
+    "Province": "Kiên Giang",
+    "Revenue": 5.546,
+    "Hotel": 100,
+    "Restaurant": 100
+  },
+  {
+    "Index": 15,
+    "Code": "BRV",
+    "Province": "Bà Rịa - Vũng Tàu",
+    "Revenue": 5.41,
+    "Hotel": 100,
+    "Restaurant": 100
+  },
+  {
+    "Index": 16,
+    "Code": "LD",
+    "Province": "Lâm Đồng",
+    "Revenue": 5.144,
+    "Hotel": 100,
+    "Restaurant": 100
+  },
+  {
+    "Index": 17,
+    "Code": "DNI",
+    "Province": "Đồng Nai",
+    "Revenue": 4.936,
+    "Hotel": 100,
+    "Restaurant": 100
+  },
+  {
+    "Index": 18,
+    "Code": "BNI",
+    "Province": "Bắc Ninh",
+    "Revenue": 4.784,
+    "Hotel": 100,
+    "Restaurant": 100
+  },
+  {
+    "Index": 19,
+    "Code": "CTT",
+    "Province": "Cần Thơ",
+    "Revenue": 4.677,
+    "Hotel": 100,
+    "Restaurant": 100
+  },
+  {
+    "Index": 20,
+    "Code": "HNA",
+    "Province": "Hà Nam",
+    "Revenue": 4.569,
+    "Hotel": 100,
+    "Restaurant": 100
+  },
+  {
+    "Index": 21,
+    "Code": "BDU",
+    "Province": "Bình Dương",
+    "Revenue": 4.485,
+    "Hotel": 100,
+    "Restaurant": 100
+  },
+  {
+    "Index": 22,
+    "Code": "HP",
+    "Province": "Hải Phòng",
+    "Revenue": 4.383,
+    "Hotel": 100,
+    "Restaurant": 100
+  },
+  {
+    "Index": 23,
+    "Code": "TGG",
+    "Province": "Tiền Giang",
+    "Revenue": 4.362,
+    "Hotel": 100,
+    "Restaurant": 100
+  },
+  {
+    "Index": 24,
+    "Code": "AG",
+    "Province": "An Giang",
+    "Revenue": 4.299,
+    "Hotel": 100,
+    "Restaurant": 100
+  },
+  {
+    "Index": 25,
+    "Code": "VP",
+    "Province": "Vĩnh Phúc",
+    "Revenue": 4.242,
+    "Hotel": 100,
+    "Restaurant": 100
+  },
+  {
+    "Index": 26,
+    "Code": "LA",
+    "Province": "Long An",
+    "Revenue": 4.187,
+    "Hotel": 100,
+    "Restaurant": 100
+  },
+  {
+    "Index": 27,
+    "Code": "DLK",
+    "Province": "Đắk Lắk",
+    "Revenue": 4.169,
+    "Hotel": 100,
+    "Restaurant": 100
+  },
+  {
+    "Index": 28,
+    "Code": "TNI",
+    "Province": "Tây Ninh",
+    "Revenue": 4.156,
+    "Hotel": 100,
+    "Restaurant": 100
+  },
+  {
+    "Index": 29,
+    "Code": "DTH",
+    "Province": "Đồng Tháp",
+    "Revenue": 4.144,
+    "Hotel": 100,
+    "Restaurant": 100
+  },
+  {
+    "Index": 30,
+    "Code": "BG",
+    "Province": "Bắc Giang",
+    "Revenue": 4.097,
+    "Hotel": 100,
+    "Restaurant": 100
+  },
+  {
+    "Index": 31,
+    "Code": "ST",
+    "Province": "Sóc Trăng",
+    "Revenue": 4.074,
+    "Hotel": 50,
+    "Restaurant": 50
+  },
+  {
+    "Index": 32,
+    "Code": "HGI",
+    "Province": "Hậu Giang",
+    "Revenue": 4.061,
+    "Hotel": 50,
+    "Restaurant": 50
+  },
+  {
+    "Index": 33,
+    "Code": "DKN",
+    "Province": "Đắk Nông",
+    "Revenue": 4.047,
+    "Hotel": 50,
+    "Restaurant": 50
+  },
+  {
+    "Index": 34,
+    "Code": "TV",
+    "Province": "Trà Vinh",
+    "Revenue": 4.034,
+    "Hotel": 50,
+    "Restaurant": 50
+  },
+  {
+    "Index": 35,
+    "Code": "BP",
+    "Province": "Bình Phước",
+    "Revenue": 4.021,
+    "Hotel": 50,
+    "Restaurant": 50
+  },
+  {
+    "Index": 36,
+    "Code": "CM",
+    "Province": "Cà Mau",
+    "Revenue": 3.996,
+    "Hotel": 50,
+    "Restaurant": 50
+  },
+  {
+    "Index": 37,
+    "Code": "QT",
+    "Province": "Quảng Trị",
+    "Revenue": 3.983,
+    "Hotel": 50,
+    "Restaurant": 50
+  },
+  {
+    "Index": 38,
+    "Code": "GL",
+    "Province": "Gia Lai",
+    "Revenue": 3.969,
+    "Hotel": 50,
+    "Restaurant": 50
+  },
+  {
+    "Index": 39,
+    "Code": "BT",
+    "Province": "Bến Tre",
+    "Revenue": 3.956,
+    "Hotel": 50,
+    "Restaurant": 50
+  },
+  {
+    "Index": 40,
+    "Code": "HY",
+    "Province": "Hưng Yên",
+    "Revenue": 3.943,
+    "Hotel": 50,
+    "Restaurant": 50
+  },
+  {
+    "Index": 41,
+    "Code": "BL",
+    "Province": "Bạc Liêu",
+    "Revenue": 3.929,
+    "Hotel": 50,
+    "Restaurant": 50
+  },
+  {
+    "Index": 42,
+    "Code": "ND",
+    "Province": "Nam Định",
+    "Revenue": 3.916,
+    "Hotel": 50,
+    "Restaurant": 50
+  },
+  {
+    "Index": 43,
+    "Code": "LD",
+    "Province": "Lâm Đồng",
+    "Revenue": 3.891,
+    "Hotel": 50,
+    "Restaurant": 50
+  },
+  {
+    "Index": 44,
+    "Code": "PT",
+    "Province": "Phú Thọ",
+    "Revenue": 3.877,
+    "Hotel": 50,
+    "Restaurant": 50
+  },
+  {
+    "Index": 45,
+    "Code": "VL",
+    "Province": "Vĩnh Long",
+    "Revenue": 3.864,
+    "Hotel": 50,
+    "Restaurant": 50
+  },
+  {
+    "Index": 46,
+    "Code": "QNG",
+    "Province": "Quảng Ngãi",
+    "Revenue": 3.851,
+    "Hotel": 50,
+    "Restaurant": 50
+  },
+  {
+    "Index": 47,
+    "Code": "TQ",
+    "Province": "Tuyên Quang",
+    "Revenue": 3.837,
+    "Hotel": 50,
+    "Restaurant": 50
+  },
+  {
+    "Index": 48,
+    "Code": "TH",
+    "Province": "Thanh Hóa",
+    "Revenue": 3.824,
+    "Hotel": 50,
+    "Restaurant": 50
+  },
+  {
+    "Index": 49,
+    "Code": "BK",
+    "Province": "Bắc Kạn",
+    "Revenue": 3.811,
+    "Hotel": 50,
+    "Restaurant": 50
+  },
+  {
+    "Index": 50,
+    "Code": "SL",
+    "Province": "Sơn La",
+    "Revenue": 3.797,
+    "Hotel": 50,
+    "Restaurant": 50
+  },
+  {
+    "Index": 51,
+    "Code": "DB",
+    "Province": "Điện Biên",
+    "Revenue": 3.784,
+    "Hotel": 50,
+    "Restaurant": 50
+  },
+  {
+    "Index": 52,
+    "Code": "LC",
+    "Province": "Lai Châu",
+    "Revenue": 3.771,
+    "Hotel": 50,
+    "Restaurant": 50
+  },
+  {
+    "Index": 53,
+    "Code": "HG",
+    "Province": "Hà Giang",
+    "Revenue": 3.757,
+    "Hotel": 50,
+    "Restaurant": 50
+  },
+  {
+    "Index": 54,
+    "Code": "YB",
+    "Province": "Yên Bái",
+    "Revenue": 3.744,
+    "Hotel": 50,
+    "Restaurant": 50
+  },
+  {
+    "Index": 55,
+    "Code": "HB",
+    "Province": "Hòa Bình",
+    "Revenue": 3.731,
+    "Hotel": 50,
+    "Restaurant": 50
+  },
+  {
+    "Index": 56,
+    "Code": "KT",
+    "Province": "Kon Tum",
+    "Revenue": 3.717,
+    "Hotel": 50,
+    "Restaurant": 50
+  },
+  {
+    "Index": 57,
+    "Code": "TN",
+    "Province": "Thái Nguyên",
+    "Revenue": 3.704,
+    "Hotel": 50,
+    "Restaurant": 50
+  },
+  {
+    "Index": 58,
+    "Code": "HD",
+    "Province": "Hải Dương",
+    "Revenue": 3.691,
+    "Hotel": 50,
+    "Restaurant": 50
+  }
+]
